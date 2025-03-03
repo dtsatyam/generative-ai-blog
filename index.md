@@ -28,7 +28,8 @@ Generative AI is revolutionizing various industries, from **banking and healthca
 ### ✂️ **Tokenization & Embeddings**  
 - [Tokenization: Breaking Down Text](tokenization.md)  
 - [Embeddings: Representing Text as Vectors](embeddings.md)  
-- [Tokenization vs. Embeddings: Key Differences](tokenization_vs_embeddings.md)  
+- [Tokenization vs. Embeddings: Key Differences](tokenization_vs_embeddings.md)
+- [Classic Classification models](classification.md) 
 
 ### 🎯 **Fine-Tuning & Advanced Topics**  
 - [Introduction to Fine-Tuning](fine_tuning.md)  
