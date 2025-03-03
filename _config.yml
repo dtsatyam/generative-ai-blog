@@ -1,3 +1,6 @@
 title: Mastering Generative AI
 description: "A one-stop guide for learning Generative AI"
 theme: jekyll-theme-cayman  # You can change this to other GitHub-supported themes
+overlay_image: false
+overlay_filter: 0.5
+show_overlay_excerpt: false
